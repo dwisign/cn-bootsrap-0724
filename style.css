@@ -19,3 +19,10 @@ body {
     border-radius: 10px;
     background-color: aquamarine;
 }
+
+@media only screen and (max-width: 1280px) {
+    .box-services{
+        margin-bottom: 30px;
+        background-color: bisque;
+    }
+}
